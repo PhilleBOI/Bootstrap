@@ -1,0 +1,29 @@
+.dropdown-header{
+    border-bottom: 1px solid #dee2e6;
+    padding: 30px;
+    font-size: 20px;
+}
+
+a{
+    color: black;
+}
+
+.modal-content {
+    margin: 240px;
+    width: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+.modal-footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 2%;
+    font-size: large;
+    background-color: gray;
+}
