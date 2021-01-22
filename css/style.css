@@ -1,4 +1,4 @@
-.dropdown-header{
+.philip-dropdown-header{
     border-bottom: 1px solid #dee2e6;
     padding: 30px;
     font-size: 20px;
@@ -8,14 +8,14 @@ a{
     color: black;
 }
 
-.modal-content {
+.philip-modal-content {
     margin: 240px;
     width: auto;
     text-align: center;
     font-size: 30px;
 }
 
-.modal-footer{
+.philip-modal-footer{
     position: fixed;
     left: 0;
     bottom: 0;
